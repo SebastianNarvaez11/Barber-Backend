@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "kari-244718",
+  "private_key_id": "3c8e173f5ae3a27ab8bb66c1344deebcfe9b543c",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQCqIBEkq7GHjdKK\nh10B+t0eRtgGy0HFQI84vX5WPNClkkBPuseSDZJy5ZK6ImzymkaM0JHU4LBjfz0W\nYCy6sMfXCLfdiyQzikjDSRkGq9pRsAWL6f2oRzpj2TluOEqUPBr1VUZSa8D8eMYd\noqPWU+5V6GldeYuSobiYHpVgbdCmgutll36UMb26EmzZpZMv2chitHtDOjhHwxIM\n5EotLYv1Riu2vWRaJyIJTGbOqNPw2nZlfF2cpoAIbYCIWTRYqMlvQKsIZIZR8AvH\nRmJXtIlDeZi7ISTgNQjEB8OpjURFR6ksgZnMEUN78ZbPu1NlxmH0OmdKgfctSUz8\nQaUmkQePAgMBAAECggEARCbgdz5IujL4WwJrIfXrSsu6ks4uJOT9+w7+Y3GtbAaw\nuL/sXvgM6PZK10IfPvjKtnJ/WTZBszovsJ0Kjidvhxc5AQlSkUseZw0Ld3600PCg\n6DHuqdEO9Rz6QstOJSAG9K0apL4B66I+S3TyCVRKMCQQwZ+FaFJc7qOh16VmZq14\ngNd8Ci7orzQOKX8S4ggaraNI7V20RxyrBJZ9NHQIGtXoQxaWYydudJCPa/QZzAuF\noBEoxqq/ePlTRE8WIQ+j7ICY17NAiksD0AxBPQG2rZFRraUKCSp6tVXNRQA9vPBx\npoSKD8J1r0GcfNspNbaSD04TTXIdzV+s4mZtb5Gk8QKBgQDURWLn2OZPvPkp+2ox\naN10mLYUhsFxT/bEIgqyBO8iRn0N0eN+mVwTuO/In6G+wtTnR/q5xF69dSWQZlhs\nzdRC8PL05hRyFWoZb5Ji39BkjC1+egKbnBjetkcb1OmKKs+Vng+4yAiSmRqdmT5W\nJuZKz7H83NA/rDuPJGNv/TCKpQKBgQDNLAYMhpJyWyEMcWZhM3HqilccBL1AYM5U\nzwuUWFy2keJDbNkuV15HW0/YKFLefs4FasjLOHy+vHYEtfWtvXCHs3rYUVmm7u4Q\n0EM03xXbR35YtY62rwiG9kl0aoP9h3F6oi3F58VRVIDHL6qBeo2PoEA70uoGm7y6\nhvY3SZBXIwKBgGUnA3C0HVwWEy38Tqho7k7njqzNYlUa496m0i3ux/2vVVxGjn//\nmK8VS75ww2Th9w6XcFUhzHu/3TyoaK7AjsuvgjdNhKSwq7SfRES1ntqrKerBPYjl\no7xNZClRFlDvAaisf5VwTRV+u/4pzljDhK5Vtt1mZB5TdrZJgtEU+BK5AoGAMqm3\nSKqGSRS1oXPzGvdwHsFQZ0vIS7hb2tdRfa0gH7kATTP4oRfT4PzsR20VoXlgeDf5\nIy1sqFCzN9CSvPc1bVzlbbsQz0bapG442jpoFECgM1mJxxSLn3/7fXK76wPiAq0/\nbkogEEg0kHr1uIlBoYCpu9wGC+GzBcBD1j0lFk8CgYApTXb5J7RTPdQuJuSChu85\n710FwQs5XTsz9b012TSWag9rqzCXWtcIAEVdAY/56XIuRuDozJbTQK7fsuOhrVfs\neFpDf6wtxXkoDVwCh9wj7hUpsQlha7obheKZ9fbY1Ym1BuqVs77MY/Mr6ln0yIw6\n3R/JOnEsFHLU9nrku4X/Ww==\n-----END PRIVATE KEY-----\n",
+  "client_email": "barbershop@kari-244718.iam.gserviceaccount.com",
+  "client_id": "104946824366495262226",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/barbershop%40kari-244718.iam.gserviceaccount.com"
+}
