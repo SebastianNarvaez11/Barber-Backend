@@ -11,10 +11,10 @@ class User(AbstractBaseUser):
 
     id = models.CharField(primary_key=True, blank=True, max_length=40, verbose_name="ID")
     username = models.CharField(max_length=100, unique=True, verbose_name="Nombre de usuario")
-    email = models.EmailField(blank=True, null=True, verbose_name="Email")
+    email = models.EmailField(verbose_name="Email", unique=True)
     first_name = models.CharField(max_length=100, default='', verbose_name="Nombre")
     last_name = models.CharField(max_length=100, default='', verbose_name="Apellidos")
-    role = models.CharField(verbose_name='Rol', max_length=10, choices=USER_TYPE_CHOICES, default='CLIENTE') 
+    role = models.CharField(verbose_name='Rol', max_length=10, choices=USER_TYPE_CHOICES, default='ADMIN') 
     is_staff = models.BooleanField(default=False)
     is_active = models.BooleanField(default=True)
     is_superuser = models.BooleanField(default=False)

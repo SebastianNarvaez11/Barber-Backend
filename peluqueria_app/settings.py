@@ -50,7 +50,6 @@ INSTALLED_APPS = [
     'modules.users',
     'modules.products',
     'modules.appointments',
-
     'rest_framework',
     'corsheaders',
 ]
